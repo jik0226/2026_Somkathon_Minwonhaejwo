@@ -29,7 +29,6 @@
 
 - 발표 자료 (PDF): [민원해줘_발표PPT_통합.pdf](민원해줘_발표PPT_통합.pdf)
 - 앱 디자인 (PDF): [민원해줘_앱디자인_통합.pdf](민원해줘_앱디자인_통합.pdf)
-- 발표 자료 (Figma): [SOMKATON PPT](https://www.figma.com/design/xbmC9VwZ2YxOdkvnrYYsp2/SOMKATON-PPT?node-id=0-1&t=972ZiZpU8HT5UCbh-1)
 
 ---
 
